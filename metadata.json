@@ -1,0 +1,6 @@
+{
+  "name": "TaxWise - Payroll & Deduction Tax Maximizer",
+  "description": "Interactive real-time payroll and tax optimization engine modeling 2026 IRS pre-tax deductions, FICA limits, side-by-side pay stub calculations, and avoidable tax loss alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
